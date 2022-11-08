@@ -34,8 +34,10 @@ let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 0;
 
 // coming back to this after impementing the try again button reset...
-// now we need to define the highscore
+// now we need to define the highscore into a variable
+// that will be set when the player wins ;)
 let highScore = 0;
+// so in that win else if block,
 
 // then we connect it to the div with the class of number to display it during development
 // however, we don't want this visible until the user guesses the number
