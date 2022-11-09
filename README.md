@@ -1,3 +1,5 @@
-# JavaScript Logic Project 
+# JavaScript Logic Project
 
-Built with Tailwindcss for responsiveness :) 
+See the comments in the app.js file for an expaination
+
+Built with Tailwindcss for responsiveness :)
